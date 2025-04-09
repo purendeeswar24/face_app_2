@@ -1,0 +1,9 @@
+opencv-python
+numpy
+pandas
+openpyxl
+pytz
+python-dateutil
+insightface
+onnxruntime
+streamlit
